@@ -1,4 +1,4 @@
-Scala dub project / problems sets i'm working on.
+Scala dub project.
 
 Crawler:
 ========
